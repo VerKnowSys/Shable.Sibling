@@ -1,0 +1,3 @@
+[submodule "Shable"]
+	path = Shable
+	url = git@github.com:verknowsys/Shable.git
